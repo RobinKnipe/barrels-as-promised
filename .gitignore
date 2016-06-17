@@ -35,3 +35,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# IntelliJ stuff
+.idea/
+*.iml
+
+# Barrels fixtures
+test/fixtures/
+test/index.test.js
+test/mocha.opts

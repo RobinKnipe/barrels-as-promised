@@ -4,6 +4,7 @@
   "description": "A Promise wrapper around the barrels utility",
   "main": "index.js",
   "scripts": {
+    "postinstall": "node_modules/.bin/grunt",
     "test": "istanbul cover _mocha"
   },
   "repository": {
