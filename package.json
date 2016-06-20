@@ -1,10 +1,10 @@
 {
   "name": "barrels-as-promised",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Promise wrapper around the barrels utility",
   "main": "index.js",
   "scripts": {
-    "postinstall": "node_modules/.bin/grunt",
+    "pretest": "./node_modules/.bin/grunt",
     "test": "istanbul cover _mocha"
   },
   "repository": {
