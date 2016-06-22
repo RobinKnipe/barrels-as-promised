@@ -3,7 +3,7 @@
 A `Promise` wrapper around the `barrels` utility.
 
 
-[![Build Status](https://travis-ci.org/RobinKnipe/barrels-as-promised.png?branch=master)](https://travis-ci.org/RobinKnipe/barrels-as-promised)
+[![Build Status](https://travis-ci.org/RobinKnipe/barrels-as-promised.png?branch=master)](https://travis-ci.org/RobinKnipe/barrels-as-promised) [![License](https://img.shields.io/npm/l/barrels-as-promised.svg)](https://github.com/RobinKnipe/barrels-as-promised/blob/master/LICENSE)
 
 ## Installation
 
