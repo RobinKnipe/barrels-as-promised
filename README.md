@@ -1,3 +1,5 @@
+**DEPRECATED:** probably no need for this anymore, so may as well save the github resources 👻
+
 # barrels-as-promised
 
 A `Promise` wrapper around the `barrels` utility.
